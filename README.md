@@ -1,5 +1,6 @@
 # React-Contact-List-App
 
+![Contacts List App](https://github.com/nidhigaday/React-Contact-List-App/blob/master/public/Contacts-app.gif)
 
 # Introduction
 
