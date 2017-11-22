@@ -16,8 +16,8 @@ This is a in-class project in Udacity React Nanodegree. It is intended to learn 
 
 * Download this repo
 * Open the folder in command line and install all dependecies with `npm install`. If already installed, skip to next step
-* Open 'reactnd-contacts-server' folder in command line. Start the backend server by `node server.js`
 * Open 'React-Contact-List-App' folder in command line. Run `npm start` to open application
+* Open 'reactnd-contacts-server' folder in command line. Start the backend server by `node server.js`
 
 
 
