@@ -41,7 +41,7 @@ class ListContacts extends Component {
 
     return (
       <div className='list-contacts'>
-        <h3 className='page-title'>Student Contacts Directory - Hogwartz</h3>
+        <h3 className='page-title'>Contacts Directory</h3>
 
         <div className='list-contacts-top'>
           <input
